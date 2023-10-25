@@ -1,0 +1,57 @@
+body{
+    background-color:black;
+    color: white;
+  }
+  .title{
+    background-color: #00ad45;
+    font-family: Nosifer, sans-serif;
+    text-align:center;
+    border-bottom-left-radius: 55px;
+    border-bottom-right-radius: 55px;
+    font-size: 20px;
+    margin-left: 8px;
+    margin-right:8px ;
+    
+  }
+  .this{
+    color:black;}
+    .nav{
+        display: flex;
+      
+        flex-direction: row;
+        justify-content:center ;
+        gap: 20px;
+        
+      
+      }
+     
+      a {
+        background-color: #00ad45;
+        width: 100px;
+        text-align: center;
+        text-decoration: none;
+        height: 30px;
+        font-size: 25px;
+        color: black;
+        border-radius: 30px;
+        font-family:fantasy;
+        
+      
+      }
+      .home{
+        background-color: #5ecc62;
+        box-shadow: 0 4px 4px rgba(220, 87, 5, 0.8);
+      }
+      .blog{
+        display: flex;
+        }
+      
+        
+       
+        
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom;}
+            p{
+            color:#00ad45
+            }
